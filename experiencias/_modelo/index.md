@@ -14,7 +14,7 @@ student_name: Wylmer Monteiro
 student_number: "2025290"
 ---
 
-# Project Sailor Moon
+# Project Childhood
 > materialização da nostalgia
 
 ![](attachments/hero.jpg)

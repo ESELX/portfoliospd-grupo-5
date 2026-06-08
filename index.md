@@ -1,18 +1,18 @@
 ---
-title: "Nome do Grupo"
+title: Grupo 5
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Prototipagem Digital · 2025-26"
+hero_title: Grupo 5
+hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "PrototipagemDigital"
-group_name: ""
-group_number: ""
+course: PrototipagemDigital
+group_name: Grupo 5
+group_number: "5"
 members:
   - number: ""
     name: ""
@@ -22,15 +22,15 @@ members:
 
 # Nome do Grupo
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha conceptualmente forte).
+> Onde a criatividade encontra a tecnologia.
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome            |
+| ------- | --------------- |
+| 2025290 | Wylmer Monteiro |
+| 2025267 | Mafalda Ramos   |
+| 2025295 | Filipe Justo    |
 
 ---
 
@@ -44,20 +44,23 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 1</h3>
+  <a class="gallery-card" href="tutoriais/Bambu Lab A1 Mini/">
+    <img src="tutoriais/Bambu Lab A1 Mini/attachments/Camada.jpg" alt="" />
+    <h3>Bambu Lab A1 Mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 2</h3>
+  <a class="gallery-card" href="tutoriais/Silhouette Cameo 3/">
+    <img src="tutoriais/Silhouette Cameo 3/attachments/Camada 1.jpg" alt="" />
+    <h3>Silhouette Cameo 3</h3>
     <p>Tutorial detalhado</p>
   </a>
 
 </div>
 <!-- markdownlint-enable MD033 -->
+
+
+
 
 ---
 

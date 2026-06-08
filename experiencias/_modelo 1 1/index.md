@@ -1,17 +1,17 @@
 ---
-title: "Nome do Projeto Individual"
+title: Tábua de chef
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Projeto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_subtitle:
+hero_title:
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Mafalda Ramos
+student_number: "2025267"
 ---
 
 # Nome do Projeto Individual

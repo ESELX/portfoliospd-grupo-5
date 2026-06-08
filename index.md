@@ -11,7 +11,7 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: PrototipagemDigital
-group_name: Grupo 5
+group_name: Oficina de Ideias
 group_number: "5"
 members:
   - number: ""
@@ -20,7 +20,7 @@ members:
     name: ""
 ---
 
-# Nome do Grupo
+# Oficina de Ideias
 
 > Onde a criatividade encontra a tecnologia.
 
@@ -71,14 +71,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <!-- Duplicar o bloco abaixo para cada elemento e substituir `_modelo` em
      ambos os caminhos por `<numero>-<nome>`. -->
 
-<!-- markdownlint-disable MD033 -->
-<div class="gallery-grid">
 
-  <a class="gallery-card" href="experiencias/_modelo/">
-    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
-  </a>
 
-</div>
-<!-- markdownlint-enable MD033 -->
+
+

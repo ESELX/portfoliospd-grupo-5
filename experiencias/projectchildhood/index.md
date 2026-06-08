@@ -1,5 +1,5 @@
 ---
-title: Nome do Projeto Individual
+title: project childhood
 icon: lucide/box
 tags: galeria
 status: not-started

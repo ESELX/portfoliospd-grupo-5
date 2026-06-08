@@ -45,13 +45,13 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <div class="gallery-grid">
 
   <a class="gallery-card" href="tutoriais/bambu/">
-    <img src="tutoriais/bambu/attachments/Camada.jpg" alt="" />
+    <img src="tutoriais/bambu/attachments/camada.jpg" alt="" />
     <h3>Bambu Lab A1 Mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
   <a class="gallery-card" href="tutoriais/silhouette/">
-    <img src="tutoriais/silhouette/attachments/Camada 1.jpg" alt="" />
+    <img src="tutoriais/silhouette/attachments/camadacameo.jpg" alt="" />
     <h3>Silhouette Cameo 3</h3>
     <p>Tutorial detalhado</p>
   </a>

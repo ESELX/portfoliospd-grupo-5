@@ -17,7 +17,7 @@ machine_name: Bambu Lab A1 Mini
 
 > Máquina de impressão 3D (FDM) compacta e de alta velocidade, utilizada para a prototipagem rápida e materialização de modelos digitais tridimensionais.
 
-![](attachments/Camada.jpg)
+![](attachments/camada.jpg)
 
 Tutorial elaborado por Mafalda Ramos, Filipe Justo e Wylmer Monteiro, seguindo a estrutura de referência do Fablab Benfica: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>
 

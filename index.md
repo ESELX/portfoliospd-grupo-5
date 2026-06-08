@@ -36,7 +36,7 @@ members:
 
 ## Tutoriais de Máquinas
 
-Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas individuais de cada tutorial estão em [tutoriais/](tutoriais/).
+Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas individuais de cada tutorial estão em tutoriais.
 
 <!-- Cada thumbnail liga ao tutorial. Cada tutorial vive em
      tutoriais/<nome-da-maquina>/index.md (renomear `_modelo`). -->
@@ -44,14 +44,14 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="tutoriais/Bambu Lab A1 Mini/">
-    <img src="tutoriais/Bambu Lab A1 Mini/attachments/Camada.jpg" alt="" />
+  <a class="gallery-card" href="tutoriais/bambu/">
+    <img src="tutoriais/bambu/attachments/Camada.jpg" alt="" />
     <h3>Bambu Lab A1 Mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/Silhouette Cameo 3/">
-    <img src="tutoriais/Silhouette Cameo 3/attachments/Camada 1.jpg" alt="" />
+  <a class="gallery-card" href="tutoriais/silhouette/">
+    <img src="tutoriais/silhouette/attachments/Camada 1.jpg" alt="" />
     <h3>Silhouette Cameo 3</h3>
     <p>Tutorial detalhado</p>
   </a>
@@ -66,7 +66,7 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 
 ## Galeria de Experiências Individuais
 
-Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em [experiencias/](experiencias/).
+Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em experiências.
 
 <!-- Duplicar o bloco abaixo para cada elemento e substituir `_modelo` em
      ambos os caminhos por `<numero>-<nome>`. -->

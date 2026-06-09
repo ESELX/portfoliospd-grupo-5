@@ -5,12 +5,12 @@ tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
 hero_title: Grupo 5
-hero_subtitle: Prototipagem Digital · 2025-26
+hero_subtitle: Prototipagem Digital · 25-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: PrototipagemDigital
+course: Prototipagem Digital
 group_name: Oficina de Ideias
 group_number: "5"
 members:

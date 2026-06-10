@@ -3,7 +3,7 @@ title: Bambu Lab A1 Mini
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/Camada.jpg
+hero_image: attachments/camada.jpg
 hero_title: Bambu Lab A1 Mini
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
@@ -17,7 +17,7 @@ machine_name: Bambu Lab A1 Mini
 
 > Máquina de impressão 3D (FDM) compacta e de alta velocidade, utilizada para a prototipagem rápida e materialização de modelos digitais tridimensionais.
 
-![](attachments/camada.jpg)
+![](attachments/bambu.jpg)
 
 Tutorial elaborado por Mafalda Ramos, Filipe Justo e Wylmer Monteiro, seguindo a estrutura de referência do Fablab Benfica: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>
 

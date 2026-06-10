@@ -3,7 +3,7 @@ title: Silhouette Cameo 3
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/camadacameo.jpg
+hero_image: attachments/cameo.jpg
 hero_title: Silhouette Cameo 3
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
@@ -17,7 +17,7 @@ machine_name: Silhouette Cameo 3
 
 > Plotter de corte operada por computador, ideal para recortes de alta precisão em materiais planos 2D, como vinil autocolante, papel e cartolina
 
-![](attachments/camadacameo.jpg)
+![](attachments/cameo.jpg)
 
 
 Tutorial elaborado por Mafalda Ramos, Filipe Justo e Wylmer Monteiro, seguindo a estrutura de referência do Fablab Benfica: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>

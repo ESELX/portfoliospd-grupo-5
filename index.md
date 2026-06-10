@@ -105,7 +105,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   </a>
 
 <a class="gallery-card" href="experiencias/2025267_mafaldaramos_vinil/">
-    <img src="experiencias/22025267_mafaldaramos_cnc/attachments/hero2.jpeg" alt="" />
+    <img src="experiencias/2025267_mafaldaramos_vinil/attachments/hero7.jpeg" alt="" />
     <h3>Projeto Vinil - Mafalda Ramos</h3>
     <p>Experiência detalhada</p>
   </a>

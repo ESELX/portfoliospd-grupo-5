@@ -72,6 +72,6 @@ Irá utilizar ficheiros bidimensionais em formato SVG. Estes podem ser criados e
 
 Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 
-- Ficheiros-modelo: `attachments/`
+- Ficheiros-modelo: ![](attachments/cfkyuc.svg)
 - Links externos:
 - Vídeos de referência:

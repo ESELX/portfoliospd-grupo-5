@@ -72,6 +72,6 @@ Poderá produzir ficheiros tridimensionais (STL ou OBJ) em qualquer software de 
 
 Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 
-- Ficheiros-modelo: `attachments/`
-- Links externos:
-- Vídeos de referência:
+- Ficheiros-modelo: ![](attachments/sailorproject.gcode.3mf)
+- Links externos: 
+- Vídeos de referência: 

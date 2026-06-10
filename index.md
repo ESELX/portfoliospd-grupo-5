@@ -19,9 +19,7 @@ members:
   - number: ""
     name: ""
 ---
-
 # Oficina de Ideias
-
 > Onde a criatividade encontra a tecnologia.
 
 ## Elementos do Grupo

@@ -79,8 +79,6 @@ Irá utilizar ficheiros bidimensionais em formato DXF. Estes podem ser criados e
 
 ## 6. Recursos e Ficheiros
 
-Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
-
 - Ficheiros-modelo: 
 
 ![](attachments/crf.dxf)

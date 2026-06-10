@@ -74,8 +74,6 @@ Poderá produzir ficheiros tridimensionais (STL ou OBJ) em qualquer software de 
 ![697](../../experiencias/2025267_mafaldaramos_impressora/attachments/hero2.png)
 ## 6. Recursos e Ficheiros
 
-Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
-
 - Ficheiros-modelo: 
 
 ![](attachments/portachavesprototipagem.3mf)

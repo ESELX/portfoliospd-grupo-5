@@ -75,7 +75,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/projectchildhood/">
-    <img src="experiencias/projectchildhood/attachments/steven.png" alt="" />
+    <img src="experiencias/projectchildhood/attachments/steven.jpg" alt="" />
     <h3>Project Childhood</h3>
     <p>Materialização da Nostalgia</p>
   </a>

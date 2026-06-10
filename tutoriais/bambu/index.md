@@ -3,7 +3,7 @@ title: Bambu Lab A1 Mini
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/camada.jpg
+hero_image: attachments/bambu.jpg
 hero_title: Bambu Lab A1 Mini
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh

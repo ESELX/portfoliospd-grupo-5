@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/gradcover.jpg
 hero_title: Oficina de Ideias
-hero_subtitle: Prototipagem Digital · 25-26
+hero_subtitle: Grupo 5 - Prototipagem Digital · 25-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center

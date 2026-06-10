@@ -3,8 +3,8 @@ title: Oficina de Ideias
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: Grupo 5
+hero_image: attachments/gradcover.jpg
+hero_title: Oficina de Ideias
 hero_subtitle: Prototipagem Digital · 25-26
 hero_height: 100vh
 hero_overlay: 0.3

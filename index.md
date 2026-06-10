@@ -12,7 +12,7 @@ hero_align: center
 published: true
 course: Prototipagem Digital
 group_name: Oficina de Ideias
-group_number: "5"
+group_number: Grupo 5
 members:
   - number: ""
     name: ""

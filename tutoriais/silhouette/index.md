@@ -34,9 +34,9 @@ O processo de criação vetorial para plotters de corte baseia-se em caminhos fe
 A máquina interpreta apenas linhas vetoriais por onde a lâmina de corte irá passar.
 
 - **Software:** Silhouette Studio.
-- **Formatos de ficheiro:** SVG (exportado através do Illustrator).
+- **Formatos de ficheiro:** DXF (exportado através do Illustrator).
 - **Settings principais:**
-    - Importar o ficheiro SVG para o espaço de trabalho no Silhouette Studio.
+    - Importar o ficheiro DXF para o espaço de trabalho no Silhouette Studio.
     - Ajustar os perfis e parâmetros adequados ao tipo de vinil a ser utilizado.
     - Definir manualmente (ou usando predefinições) a velocidade e a força/pressão de corte pretendidas.
 
@@ -51,7 +51,7 @@ A máquina interpreta apenas linhas vetoriais por onde a lâmina de corte irá p
 
 ### 3.2. Que tipo de ficheiros vou usar e onde os posso produzir
 
-Irá utilizar ficheiros bidimensionais em formato SVG. Estes podem ser criados em qualquer programa de desenho vetorial (como o Illustrator ou Inkscape) quer no seu computador em casa quer na escola, desde que não se esqueça de expandir/converter todos os traços e textos em contornos antes de exportar.
+Irá utilizar ficheiros bidimensionais em formato DXF. Estes podem ser criados em qualquer programa de desenho vetorial (como o Illustrator ou Inkscape) quer no seu computador em casa quer na escola, desde que não se esqueça de expandir/converter todos os traços e textos em contornos antes de exportar.
 
 ## 4. Como operar a máquina passo-a-passo
 
@@ -76,6 +76,10 @@ Irá utilizar ficheiros bidimensionais em formato SVG. Estes podem ser criados e
 
 Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 
-- Ficheiros-modelo: ![](attachments/wyllowsticker.svg)
+- Ficheiros-modelo: 
+![](attachments/crf.dxf)
+![](attachments/offspring.dxf)
+![](attachments/wyllow.dxf)
+
 - Links externos:
 - Vídeos de referência:

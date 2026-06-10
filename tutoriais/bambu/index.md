@@ -12,9 +12,7 @@ hero_align: center
 published: true
 machine_name: Bambu Lab A1 Mini
 ---
-
 # Bambu Lab A1 Mini
-
 > Máquina de impressão 3D (FDM) compacta e de alta velocidade, utilizada para a prototipagem rápida e materialização de modelos digitais tridimensionais.
 
 ![](attachments/bambu.jpg)
@@ -54,7 +52,7 @@ Poderá produzir ficheiros tridimensionais (STL ou OBJ) em qualquer software de 
 ## 4. Como operar a máquina passo-a-passo
 
 1.  **Preparação da Base:** Retirar a base magnética (placa PEI) e garantir que não tem resíduos de impressões anteriores. Limpar a placa da máquina com álcool para remover oleosidades e passar uma laca específica se a superfície estiver escorregadia. Voltar a colocar a base devidamente alinhada. Isto garante que o projeto fique agarrado à base e não se desloque de um sítio para o outro durante a impressão.
-2. **Inserção do Ficheiro:** Inserir a pen USB e verificar no ecrã da impressora se o ficheiro/projeto pretendido aparece na listagem.
+2. **Inserção do Ficheiro:** Inserir a pen USB ou Cartão SD e verificar no ecrã da impressora se o ficheiro/projeto pretendido aparece na listagem. Outra opcção pode ser via App Bambu Studio se estiverem ambos dispositivos conectados na mesma rede.
 3. **Gestão do Filamento:** Confirmar visualmente se existe a quantidade de filamento necessário para o projeto. Se for necessário trocar:
 	- O filamento antigo deve ser aquecido e puxado devagar (através da opção _Unload_ no ecrã).
 	- Colocar o novo rolo, inserir o filamento no tubo e alimentá-lo até ser agarrado pelo motor da extrusora (utilizando a opção _Load_).
@@ -67,14 +65,22 @@ Poderá produzir ficheiros tridimensionais (STL ou OBJ) em qualquer software de 
 - **Extração:** Pode-se dobrar ligeiramente a placa PEI flexível para soltar a peça impressa com facilidade.
 - **Limpeza:** Se a peça os tiver, deve-se remover os suportes existentes manualmente ou com a ajuda de um alicate de corte.
 - **Acabamento:** Se for necessário, podem-se lixar pequenas imperfeições finais para um acabamento mais liso.
+### 5.1. Exemplos de Resultados
 
+![](../../experiencias/projectchildhood/attachments/wand.jpg)
+
+![](../../experiencias/2025295_filipejusto_impressora/attachments/hero7.jpeg)
+
+![697](../../experiencias/2025267_mafaldaramos_impressora/attachments/hero2.png)
 ## 6. Recursos e Ficheiros
 
 Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 
 - Ficheiros-modelo: 
+
 ![](attachments/portachavesprototipagem.3mf)
 ![](attachments/skate.3mf)
 ![](attachments/sailorproject.gcode.3mf)
 - Links externos: 
-- Vídeos de referência: 
+https://bambulab.com/en/download/studio
+https://www.autodesk.com/education/edu-software/fusion

@@ -12,9 +12,7 @@ hero_align: center
 published: true
 machine_name: Silhouette Cameo 3
 ---
-
 # Silhouette Cameo 3
-
 > Plotter de corte operada por computador, ideal para recortes de alta precisão em materiais planos 2D, como vinil autocolante, papel e cartolina
 
 ![](attachments/cameo.jpg)
@@ -71,15 +69,24 @@ Irá utilizar ficheiros bidimensionais em formato DXF. Estes podem ser criados e
 - **Depilação (Weeding):** Utilizar um gancho de depilação ou uma pinça para remover os espaços negativos (o vinil que não faz parte do desenho).
     
 - **Transferência:** Aplicar fita de transferência (_transfer tape_) por cima do vinil restante com uma espátula, levantá-lo da película traseira e aplicá-lo na superfície final pretendida
+### 5.1. Exemplos de Resultados
+
+![](../../experiencias/2025267_mafaldaramos_vinil/attachments/hero5.jpeg)
+
+![](../../experiencias/2025295_filipejusto_vinil/attachments/hero11.jpeg)
+
+![](attachments/stick.jpg)
 
 ## 6. Recursos e Ficheiros
 
 Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 
 - Ficheiros-modelo: 
+
 ![](attachments/crf.dxf)
 ![](attachments/offspring.dxf)
 ![](attachments/wyllow.dxf)
 
 - Links externos:
-- Vídeos de referência:
+https://www.silhouetteeurope.eu/pt/silhouette-studio
+https://www.adobe.com/pt/products/illustrator/campaign/pricing.html?mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=Cj0KCQjwlqTRBhCBARIsANrkrxjJiSAmGakOA8cpw4-4QpNuIk5S7Y30dObHtWt0P4SxzZofnCV1ShoaAnqrEALw_wcB:G:s&s_kwcid=AL!3085!3!763963741810!b!!g!!gratis%20adobe%20illustrator!22791102462!181740240239&gad_source=1&gad_campaignid=22791102462&gbraid=0AAAAADraYsJ7ByDEjQFnLug7ihDl5YtCR&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxjJiSAmGakOA8cpw4-4QpNuIk5S7Y30dObHtWt0P4SxzZofnCV1ShoaAnqrEALw_wcB

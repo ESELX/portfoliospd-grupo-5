@@ -3,7 +3,7 @@ title: Silhouette Cameo 3
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/Camada 1.jpg
+hero_image: attachments/camadacameo.jpg
 hero_title: Silhouette Cameo 3
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh

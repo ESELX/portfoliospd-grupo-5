@@ -43,7 +43,7 @@ A ideia inicial para este projeto era criar um emblema em vinil. Para isso, come
 
 **O que tentei:** um design pequeno com vetores finos
 **O que aprendi:** para tal design com recortes finos, necessita de ser pelo menos maior
-![242](attachments/hero5%201.jpeg)
+![242](attachments/hero5.jpeg)
 
 
 ## Resultado Final

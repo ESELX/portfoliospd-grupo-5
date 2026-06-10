@@ -15,9 +15,7 @@ student_number: "2025295"
 ---
 
 # Capa de um álbum da banda The Offspring
-> 
-![](attachments/hero.jpg)
-![488](../2025295%20-%20Filipe%20Justo%20-%20Vinil/attachments/Hero%208.avif)
+> Experiência detalhada
 ## Conceito
 
 A ideia deste projeto surgiu a partir da minha ligação pessoal à música da banda The Offspring. Como ouço este álbum desde pequeno, achei interessante utilizar uma imagem com significado para mim e transformá-la num objeto físico. Optei por recriar o elemento central da capa do álbum Conspiracy of One, procurando adaptar o design original à tridimensionalidade que iria explorar na CNC.
@@ -46,23 +44,19 @@ Este foi um processo bastante interessante, sobretudo por ter sido a primeira ve
 - **O que tentei:** Tentei recriar o elemento central da capa do álbum _Conspiracy of One_ da banda The Offspring, adaptando-o às limitações e possibilidades da tecnologia CNC.
 - **O que aprendi:** Aprendi a preparar e adaptar modelos para produção em CNC, bem como a utilizar diferentes programas e a resolver problemas que surgiram durante o processo.
 
-![](attachments/hero.jpg)
 
 ## Resultado Final
 
 Render objeto no fusion.
-![](attachments/Hero%202.jpeg)
+![](attachments/hero2.jpeg)
 ![](../2025295%20-%20Filipe%20Justo%20-%20Vinil/attachments/Hero%204.jpeg)
-![](attachments/Hero%203.jpeg)
+![](attachments/hero3.jpeg)
 Imagens do resultado final do projeto.
 
-![](attachments/Hero%204.jpeg)
+![](attachments/hero4.jpeg)
 
 
-![](../2025295%20-%20Filipe%20Justo%20-%20Vinil/attachments/Hero%202.jpeg)
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
-![](../2025295%20-%20Filipe%20Justo%20-%20Vinil/attachments/Hero%203.jpeg)
+
 
 ## Reflexão
 

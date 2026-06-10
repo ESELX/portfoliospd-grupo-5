@@ -49,7 +49,7 @@ O resultado final correspondeu à ideia inicialmente concebida, mostrando ser um
 Fotografia do resultado final deste projeto.
 
 
-![405](attachments/hero4%202.png)
+![405](attachments/hero4.png)
 Renderização do projeto final na plataforma Fusion.
 
 

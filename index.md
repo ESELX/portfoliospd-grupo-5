@@ -1,5 +1,5 @@
 ---
-title: Grupo 5
+title: Oficina de Ideias
 icon: lucide/users
 tags: galeria
 status: not-started
@@ -68,10 +68,51 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 
 Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em experiências.
 
-<!-- Duplicar o bloco abaixo para cada elemento e substituir `_modelo` em
-     ambos os caminhos por `<numero>-<nome>`. -->
+<div class="gallery-grid">
 
+  <a class="gallery-card" href="experiencias/projectchildhood/">
+    <img src="tutoriais/projectchildhood/attachments/camada.jpg" alt="" />
+    <h3>Project Childhood</h3>
+    <p>Materialização da Nostalgia</p>
+  </a>
 
+  <a class="gallery-card" href="experiencias/2025295_filipejusto_impressora/">
+    <img src="experiencias/2025295_filipejusto_impressora/attachments/hero5.jpeg" alt="" />
+    <h3>Projeto Impressora 3D - Filipe Justo</h3>
+    <p>Experiência detalhada</p>
+  </a>
+
+<a class="gallery-card" href="experiencias/2025295_filipejusto_vinil/">
+    <img src="experiencias/2025295_filipejusto_vinil/attachments/hero11.jpeg" alt="" />
+    <h3>Projeto Vinil - Filipe Justo</h3>
+    <p>Experiência detalhada</p>
+  </a>
+
+<a class="gallery-card" href="experiencias/2025295_filipejusto_cnc/">
+    <img src="experiencias/2025295_filipejusto_cnc/attachments/hero2.jpeg" alt="" />
+    <h3>Projeto CNC - Filipe Justo</h3>
+    <p>Experiência detalhada</p>
+  </a>
+
+  <a class="gallery-card" href="experiencias/2025267_mafaldaramos_impressora/">
+    <img src="experiencias/2025267_mafaldaramos_impressora/attachments/hero2.png" alt="" />
+    <h3>Projeto Impressora 3D - Mafalda Ramos</h3>
+    <p>Tutorial detalhado</p>
+  </a>
+
+<a class="gallery-card" href="experiencias/2025267_mafaldaramos_vinil/">
+    <img src="experiencias/22025267_mafaldaramos_vinil/attachments/hero7.jpeg" alt="" />
+    <h3>Projeto Vinil - Mafalda Ramos</h3>
+    <p>Experiência detalhada</p>
+  </a>
+
+<a class="gallery-card" href="experiencias/2025267_mafaldaramos_cnc/">
+    <img src="experiencias/2025267_mafaldaramos_cnc/attachments/hero2.png" alt="" />
+    <h3>Projeto CNC - Mafalda Ramos</h3>
+    <p>Experiência detalhada</p>
+  </a>
+
+</div>
 
 
 

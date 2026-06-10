@@ -16,8 +16,8 @@ student_number: "2025295"
 
 # Mini Skate
 > 
-![](attachments/hero.jpg)
-![](attachments/Hero%205.jpeg)
+
+![](attachments/hero5.jpeg)
 Imagem de referência
 
 ## Conceito
@@ -43,19 +43,18 @@ Apesar desse pequeno problema, considerei a experiência bastante positiva. Mais
 - **O que tentei:** Tentei recriar um skate em miniatura através da modelação em Blender e da impressão 3D, procurando reproduzir os diferentes componentes do objeto.
 - **O que aprendi:** Aprendi melhor o processo de modelação em Blender e a preparação de ficheiros para impressão 3D. Compreendi também a importância dos suportes e das tolerâncias entre as peças para evitar problemas durante a impressão e o acabamento.
 
-![](attachments/hero.jpg)
 
 ## Resultado Final
 
 Render skate no blender.
 
-![](attachments/Hero%206.png)
+![](attachments/hero6.png)
 
 Imagens do resultado final do projeto.
 
-![](attachments/Hero%207.jpeg)
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
+![](attachments/hero7.jpeg)
+
+
 
 
 ## Reflexão

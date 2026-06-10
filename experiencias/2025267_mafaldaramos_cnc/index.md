@@ -16,9 +16,6 @@ student_number: "2025267"
 
 # Tábua de chef
 
-
-
-
 Frase-conceito: Uma tábua de cozinha concebida para combinar funcionalidade, durabilidade e design.
 
 ## Conceito
@@ -46,7 +43,7 @@ Por fim, procedeu-se ao corte da peça na CNC, concluindo assim a fase de fabric
 
 ## Resultado Final
 
-![499](attachments/hero%202.png)
+![499](attachments/hero2.png)
 Fotografia do resultado final deste projeto.
 
 

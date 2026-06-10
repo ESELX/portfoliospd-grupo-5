@@ -17,8 +17,7 @@ student_number: "2025295"
 # Vinil - Offspring
 
 Imagem de referência:
-![](attachments/hero.jpg)
-![488](attachments/Hero%208.avif)
+![488](attachments/hero8.avif)
 ## Conceito
 
 A ideia deste projeto foi criar um vinil autocolante inspirado no elemento central da capa do álbum _Conspiracy of One_, da banda The Offspring. Como já tinha trabalhado anteriormente com este símbolo num projeto em CNC, decidi voltar a utilizá-lo e explorar uma técnica diferente.
@@ -41,22 +40,20 @@ Ao contrário de alguns projetos anteriores, este trabalho decorreu de forma bas
 - **O que tentei:** Tentei criar um vinil autocolante a partir do elemento central da capa do álbum _Conspiracy of One_, adaptando a imagem ao processo de corte em vinil.
 - **O que aprendi:** Aprendi a preparar imagens vetoriais para corte e a utilizar o Silhouette Studio para configurar corretamente o processo de produção.
 
-![](attachments/hero.jpg)
 
 ## Resultado Final
 
 Resultado final no ilustrator.
 
-![](attachments/Hero%209.png)
+![](attachments/hero9.png)
 
 Imagens do resultado final do projeto.
 
-![](attachments/Hero%2011.jpeg)
+![](attachments/hero11.jpeg)
 
-![](attachments/Hero%2010.jpeg)
+![](attachments/hero10.jpeg)
 
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
+
 
 
 ## Reflexão

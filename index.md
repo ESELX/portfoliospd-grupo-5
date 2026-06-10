@@ -68,6 +68,10 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 
 Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em experiências.
 
+<!-- Cada thumbnail liga ao tutorial. Cada tutorial vive em
+     tutoriais/<nome-da-maquina>/index.md (renomear `_modelo`). -->
+
+<!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/projectchildhood/">
@@ -113,6 +117,6 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   </a>
 
 </div>
-
+<!-- markdownlint-enable MD033 -->
 
 

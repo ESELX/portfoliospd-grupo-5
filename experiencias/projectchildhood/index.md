@@ -17,7 +17,7 @@ student_number: "2025290"
 # Project Childhood
 > materialização da nostalgia
 
-![](attachments/hero.jpg)
+![](attachments/steven.png)
 
 ## Conceito
 

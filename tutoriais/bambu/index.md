@@ -81,6 +81,9 @@ Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 ![](attachments/portachavesprototipagem.3mf)
 ![](attachments/skate.3mf)
 ![](attachments/sailorproject.gcode.3mf)
+
 - Links externos: 
+
 https://bambulab.com/en/download/studio
+
 https://www.autodesk.com/education/edu-software/fusion

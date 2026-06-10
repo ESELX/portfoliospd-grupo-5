@@ -88,5 +88,7 @@ Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 ![](attachments/wyllow.dxf)
 
 - Links externos:
+
 https://www.silhouetteeurope.eu/pt/silhouette-studio
+
 https://www.adobe.com/pt/products/illustrator/campaign/pricing.html?mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=Cj0KCQjwlqTRBhCBARIsANrkrxjJiSAmGakOA8cpw4-4QpNuIk5S7Y30dObHtWt0P4SxzZofnCV1ShoaAnqrEALw_wcB:G:s&s_kwcid=AL!3085!3!763963741810!b!!g!!gratis%20adobe%20illustrator!22791102462!181740240239&gad_source=1&gad_campaignid=22791102462&gbraid=0AAAAADraYsJ7ByDEjQFnLug7ihDl5YtCR&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxjJiSAmGakOA8cpw4-4QpNuIk5S7Y30dObHtWt0P4SxzZofnCV1ShoaAnqrEALw_wcB

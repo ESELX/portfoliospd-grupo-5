@@ -40,6 +40,8 @@ A máquina interpreta apenas linhas vetoriais por onde a lâmina de corte irá p
     - Ajustar os perfis e parâmetros adequados ao tipo de vinil a ser utilizado.
     - Definir manualmente (ou usando predefinições) a velocidade e a força/pressão de corte pretendidas.
 
+![](attachments/material.png)
+
 ## 3. Antes de Começar
 
 ### 3.1. Segurança
@@ -56,7 +58,9 @@ Irá utilizar ficheiros bidimensionais em formato SVG. Estes podem ser criados e
 1. **Preparar o Material:** Cortar manualmente o pedaço de vinil com o tamanho desejado e suficiente para o seu ficheiro. Caso use papel ou pedaços pequenos, fixe-os no tapete de corte próprio da Silhouette.
 2. **Verificar a Lâmina:** Certificar-se de que a lâmina de corte (AutoBlade) está perfeitamente trancada no carro (Suporte 1) antes de inserir qualquer material.
 3. **Alinhar o Material:** Levantar a alavanca lateral de fixação dos roletes e inserir o vinil alinhado com as marcas/linhas guia no lado esquerdo da ranhura de entrada.
+![](attachments/alinhar2.png)
 4. **Fixar o Material:** Baixar a alavanca para baixar os roletes, assegurando que estes ficam a prender e a fixar o vinil nas extremidades.
+![](attachments/alavanca.png)
 5. **Carregar o Vinil:** De seguida, no ecrã tátil frontal da máquina, pressionar o botão "Carregar". O material avançará até à posição inicial de corte.
 6. **Iniciar o Corte:** No software Silhouette Studio, depois de enviar as definições de corte, a máquina ajustará automaticamente a lâmina com um sistema de cliques audíveis do lado esquerdo e começará a cortar.
 7. **Finalizar:** Quando a máquina acabar a operação e voltar à posição zero, pressione o ecrã para descarregar o material. Por fim, pode levantar a alavanca e retirar o vinil já cortado.
